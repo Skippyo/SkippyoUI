@@ -1,0 +1,5 @@
+## Interface: 70200
+## Title: |cff00ccffSkippyo UI|r
+## Author: Skippyo
+## DefaultState: enabled
+## SavedVariables: SkippyoDB
