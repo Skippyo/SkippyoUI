@@ -1,5 +1,7 @@
-## Interface: 70200
+## Interface: 81529
 ## Title: |cff00ccffSkippyo UI|r
 ## Author: Skippyo
 ## DefaultState: enabled
-## SavedVariables: SkippyoDB
+## SavedVariables: Skippyo_UI
+
+UI.lua
