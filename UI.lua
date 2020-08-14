@@ -1,4 +1,4 @@
-print("|cff00ccffSkippyo UI:|r" .. " " .."Welcome" .. " " .. UnitName("player") .. " " .. "Thank you for Choosing Me ^^")
+print("|cff00ccffSkippyo UI:|r" .. " " .."Welcome" .. " " .. UnitName("player") .. " " .. "Thank you for Choosing SkippyoUI ^^")
 
 ----------------------------------
 	-- Register Slash Commands!
