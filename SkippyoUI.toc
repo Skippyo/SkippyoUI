@@ -4,4 +4,4 @@
 ## DefaultState: enabled
 ## SavedVariables: Skippyo_UI
 
-UI.lua
+SkippyoUI.lua
